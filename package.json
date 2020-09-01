@@ -1,0 +1,27 @@
+{
+  "name": "simple-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ext0404/simple-landing.git"
+  },
+  "author": "ext0404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ext0404/simple-landing/issues"
+  },
+  "homepage": "https://github.com/ext0404/simple-landing#readme"
+}
